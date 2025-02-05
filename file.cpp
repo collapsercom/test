@@ -40,6 +40,7 @@ int main() {
 			break;
 		default:
 			std::cout << "Error! Operator is not correct";
+			int val;
 			break;
 	}
 
