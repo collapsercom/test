@@ -15,7 +15,7 @@
 int main() {
 	char operation;
 	float num1, num2;
-
+	int var;
 	std::cout << "Enter operator (+, -, *, /): ";
 	std::cin >> operation;
 	std::cout << "Enter two operands: ";
