@@ -24,6 +24,7 @@ int main() {
 	switch(operation) {
 		case '+':
 			std::cout << num1 << " + " << num2 << " = " << num1 + num2;
+			int var;
 			break;
 		case '-':
 			std::cout << num1 << " - " << num2 << " = " << num1 - num2;
